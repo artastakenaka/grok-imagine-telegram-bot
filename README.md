@@ -26,7 +26,6 @@ Create AI images and short AI videos in Telegram.<br>
 
 <div align="center">
 
-🌐 **Official website:** https://grokimagine.cyberfrog.tech/  
 🤖 **Telegram bot:** https://t.me/GrokImagineProBot  
 📢 **Updates channel:** https://t.me/cyber_frog_ai
 
