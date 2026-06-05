@@ -2,7 +2,7 @@
 
 # Grok Imagine Telegram Bot
 
-**AI image and video generation with Grok Imagine directly inside Telegram**<br>
+**AI image and video generation powered by xAI Grok Imagine directly inside Telegram**<br>
 **Free weekly images • Text to image • Image to image • Text to video • Image to video**
 
 </div>
@@ -33,7 +33,7 @@ Create AI images and short AI videos in Telegram.<br>
 
 ## What is Grok Imagine Telegram Bot?
 
-**Grok Imagine Telegram Bot** is a Telegram bot for AI image and AI video generation powered by Grok Imagine image and video models.
+**Grok Imagine Telegram Bot** is a Telegram bot for AI image and AI video generation powered by **xAI Grok Imagine** image and video models.
 
 It brings the creative Grok Imagine workflow into Telegram, so you can generate images, edit uploaded images, and create short videos without opening a separate app or buying a fixed monthly subscription.
 
@@ -167,7 +167,16 @@ grok imagine telegram bot, grok imagine bot, grok imagine ai, grok image generat
 
 <div align="center">
 
-**Powered by Grok Imagine image and video generation**  
+**Powered by xAI Grok Imagine image and video generation**  
 **Free weekly Standard Images • Pay only for extra usage**
 
+</div>
+
+<div align="center">
+  <a href="https://t.me/GrokImagineProBot">
+    <img src="https://img.shields.io/badge/Start_Generating-@GrokImagineProBot-26A69A?style=for-the-badge&logo=telegram&logoColor=white&labelColor=555555" alt="Start generating with Grok Imagine Bot">
+  </a>
+  <a href="https://t.me/cyber_frog_ai">
+    <img src="https://img.shields.io/badge/Join_Channel-@cyber_frog_ai-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=555555" alt="Join Cyber Frog channel">
+  </a>
 </div>
