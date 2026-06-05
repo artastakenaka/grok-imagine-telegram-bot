@@ -1,8 +1,9 @@
 <div align="center">
 
 # Grok Imagine Telegram Bot
+<img src="https://github.com/artastakenaka/grok-imagine-telegram-bot/blob/87bc31c08adc49568b2d63f87309571c529cdd3f/photo_2026-06-03_19-06-07.jpg" width="420" alt="Grok Imagine Bot - Pepe Robot with Ø">
 
-**AI image and video generation powered by xAI Grok Imagine directly inside Telegram**<br>
+**AI image and video generation with Grok Imagine directly inside Telegram**<br>
 **Free weekly images • Text to image • Image to image • Text to video • Image to video**
 
 </div>
