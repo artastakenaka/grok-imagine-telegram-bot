@@ -9,10 +9,10 @@
 
 <div align="center">
   <a href="https://t.me/GrokImagineProBot">
-    <img src="https://img.shields.io/badge/Open_bot-@GrokImagineProBot-FF0066?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc" alt="Open Grok Imagine Bot">
+    <img src="https://img.shields.io/badge/Start_Generating-@GrokImagineProBot-26A69A?style=for-the-badge&logo=telegram&logoColor=white&labelColor=555555" alt="Start generating with Grok Imagine Bot">
   </a>
-  <a href="https://grokimagine.cyberfrog.tech/">
-    <img src="https://img.shields.io/badge/Website-grokimagine.cyberfrog.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Grok Imagine website">
+  <a href="https://t.me/cyber_frog_ai">
+    <img src="https://img.shields.io/badge/Join_Channel-@cyber_frog_ai-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=555555" alt="Join Cyber Frog channel">
   </a>
 </div>
 
@@ -169,13 +169,5 @@ grok imagine telegram bot, grok imagine bot, grok imagine ai, grok image generat
 
 **Powered by Grok Imagine image and video generation**  
 **Free weekly Standard Images • Pay only for extra usage**
-
-</div>
-
-<div align="center">
-
-[![Start Generating](https://img.shields.io/badge/Start_Generating-@GrokImagineProBot-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GrokImagineProBot)
-[![Join Channel](https://img.shields.io/badge/Join_Channel-@cyber_frog_ai-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_frog_ai)
-[![Website](https://img.shields.io/badge/Website-Grok_Imagine-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grokimagine.cyberfrog.tech/)
 
 </div>
